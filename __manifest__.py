@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Supplier Approve',# name คือ ชื่อของโมดูล
-    'version': '1.0',# version คือ เวอร์ชันของโมดูล
+    'version': '0.1',# version คือ เวอร์ชันของโมดูล
     'author': "Taweechai Yuenyang",
     "email": "taweechai.yuenyang@outlook.com",
     'website': 'https://abe27.github.io',
@@ -13,7 +13,6 @@
     # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
     'category': 'Services',
-    'version': '0.1',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
